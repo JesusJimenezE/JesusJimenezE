@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jesus Jiemenez Estrada 😎
 
-Soy estudiante de **Sistemas Computacionales** con pasión por el desarrollo web, el diseño funcional y las soluciones que conectan con las personas. Actualmente estoy enfocado en crear herramientas que automaticen procesos y mejoren la comunicación digital.
+Soy recien egresado de **Sistemas Computacionales** con pasión por el desarrollo web, el diseño funcional y las soluciones que conectan con las personas. Actualmente estoy enfocado en crear herramientas que automaticen procesos y mejoren la comunicación digital.
 
 ---
 
